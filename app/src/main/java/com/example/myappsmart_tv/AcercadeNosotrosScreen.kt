@@ -60,7 +60,7 @@ fun AcercadeNosotrosScreen(navController: NavController) {
         Spacer(modifier = Modifier.height(16.dp))
 
         val team = listOf(
-            TeamMember("Pedro Pablo Guzman Hernandez", "9 B", R.drawable.pablo, "Desarrollo y Gestión de Software")
+            TeamMember("Pedro Pablo Guzman Hernandez", "9B", R.drawable.pablo, "Desarrollo y Gestión de Software")
         )
 
         LazyColumn(
